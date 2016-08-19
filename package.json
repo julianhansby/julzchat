@@ -1,0 +1,24 @@
+{
+  "name": "julzchat",
+  "version": "1.0.0",
+  "description": "an IM application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianhansby/julzchat.git"
+  },
+  "author": "Julian Hansby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianhansby/julzchat/issues"
+  },
+  "homepage": "https://github.com/julianhansby/julzchat#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jquery": "^3.1.0",
+    "socket.io": "^1.4.8"
+  }
+}
